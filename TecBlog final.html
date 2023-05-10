@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TecBlog</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+
+<body>
+
+    <header>
+
+        <h1><span style="color:#4e4e4e;">Tec</span><span style="color: white;">Blog</span></h1>
+
+        <nav>
+            <ul id="MenuSup">
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Home</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Jogos</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Celulares</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Informática</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Eletrônicos</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <div class="main01">
+
+        <h2>Imprensa</h2>
+        <H3>G&P renova parceria com IBM</H3>
+        <h5>Postado 20 Março de 2022</h5>
+        <img src="..//TESTE/Imagens/MicrosoftTeams-image (2).png">
+        <p>Renovada anualmente, a parceria vai ao encontro do objetivo de trazer melhorias e contínuas de trazer melhorias contínuas e beneficiar cada vez mais os clientes da companhia, dos seguimentos público e privado. "Por mais um ano renovamos a parceria com a IBM, fortalecendo nosso portfólio e diferenciando nossos negócios. Esta parceria nos beneficia, proporcionando uma grande oportunidade de crescimento intelectual e acesso a soluções tecnóligicas mundialmente utilizadas", relata Rodrigo Bicas, gerente de alianças da G&P.</p>
+            <ul id="LM1">
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Leia Mais</a></li>
+            </ul>
+
+    </div>
+
+    <div class="main02">
+
+        <h2>Nossos clientes</h2>
+        <h5>Postado 10 Março de 2022</h5>
+        <img src="..//TESTE/Imagens/MicrosoftTeams-image (1).png">
+        <p>A G&P atua com foco nas necessidades e prioridades de cada cliente, desenvolvendo um trabalho customizado, oferecendo uma solução específica para cada particularidade, sempre com sinergia com todos os profissionais envolvidos em cada etapa do processo. Abaixo, alguns de nosso clientes.</p>
+            <ul id="LM1">
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Leia Mais</a></li>
+            </ul>
+
+    </div>
+
+    <div class="aside01">
+
+        <h3>Ouvidoria G&P</h3>
+        <p> Estamos abertos a melhorar sempre nossos serviços e termos um canal de relacionamento de forma transparente e ágil. O nosso canal de ouvidoria é para comunicação para registro de elogios, sugestões, reclamações ou dúvidas de todos os públicos que se relacionam com a G&P Projetos e Sistemas, como colaboradores, clientes e fornecedores. Como acionar a ouvidoria G&P? Você poderá fazer o seu elogio, sugestão, ou denúncia através do e-mail ouvidoria.gpnet.com.br ou nosso formulário clicando aqui.</p>
+            <ul id="LM1">
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Leia Mais</a></li>
+            </ul>
+        <hr>
+        <p>Investimos em um completo ecossistema de inovação para atender os princípios verticais. Oferecemos a tecnologia como solução aos nossos clientes, com ofertas alinhadas as principais tendências de tecnologia.</p>
+            <ul id="LM1">
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Leia Mais</a></li>
+            </ul>
+    </div>
+
+    <div class="aside02">
+
+        <h3>Categorias</h3>
+            <ul id="MenuDown">
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Jogos</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Celulares</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Informática</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Eletrônicos</a></li>
+                <li><a href="https://www.gpnet.com.br/" target="_blank">Jogos</a></li>
+            </ul>
+
+    </div>
+
+    <footer>
+        Todos os direitos reservados
+
+    </footer>
+
+</body>
+
+</html>
